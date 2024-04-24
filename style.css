@@ -1,0 +1,25 @@
+
+
+*{
+    box-sizing: border-box;
+}
+
+
+#about-body{
+    background-color: rgb(7, 7, 34);
+}
+
+#pic-two{
+
+    background-color: rgb(20, 9, 36);
+}
+
+#hosgeldiniz{
+
+  color: rgb(31, 236, 48);
+
+    background-image: url(https://i.pinimg.com/736x/05/e8/43/05e843ee79061bd83af2e1bf2f08f57a.jpg);
+  
+    background-size: cover;
+}
+
